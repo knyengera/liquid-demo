@@ -1,6 +1,16 @@
 # Liquid Glass Demo
 
-A React Native demo application showcasing Apple's new Liquid Glass design system using React Native Bottom Tabs. This project demonstrates the implementation of Apple's latest design language that combines the optical qualities of glass with fluid, dynamic interactions.
+## About Apple's Liquid Glass Design System
+
+Apple's Liquid Glass design system represents a revolutionary approach to UI design that combines the optical properties of glass with fluid, dynamic interactions. This design language introduces:
+
+- **Dynamic Translucency**: UI elements that adaptively respond to content and context, creating a sense of depth and dimensionality
+- **Fluid Interactions**: Smooth, physics-based animations that make the interface feel alive and responsive
+- **Real-time Rendering**: Advanced material properties that simulate light refraction and reflection
+- **Contextual Awareness**: Elements that intelligently adjust their appearance based on surrounding content and user interaction
+- **Adaptive Materials**: Surfaces that transform between solid and liquid states, creating a bridge between digital and physical design
+
+This demo project implements these principles using React Native, showcasing how modern mobile applications can achieve this sophisticated level of visual design while maintaining performance and usability.
 
 ## Features
 
@@ -15,8 +25,8 @@ A React Native demo application showcasing Apple's new Liquid Glass design syste
 
 - Node.js (Latest LTS version recommended)
 - Expo CLI
-- iOS 14.0+ for iOS development
-- Android Studio for Android development
+- iOS 26 beta for iOS development
+- Xcode 26 beta
 
 ## Installation
 
